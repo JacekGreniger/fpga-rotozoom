@@ -1,0 +1,6 @@
+NET "clkin"  LOC = "T9"  ; 
+NET "VGA_HSYNC_OUT"  LOC = "r9";
+NET "VGA_VSYNC_OUT"  LOC = "t10";
+NET "VGA_R_OUT"  LOC = "r12";
+NET "VGA_G_OUT"  LOC = "t12" ;
+NET "VGA_B_OUT"  LOC = "r11" ;
